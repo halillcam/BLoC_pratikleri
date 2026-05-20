@@ -1,0 +1,1 @@
+Bu pratikte Bloc kullanarak sayaç işlemlerini pratik ettim.
