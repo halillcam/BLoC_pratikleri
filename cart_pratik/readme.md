@@ -1,0 +1,1 @@
+Bu pratikte dünkü öğrendiğim artırma/azaltma yöntemlerini ve BlocBuilder ı  tekrar ettim.
