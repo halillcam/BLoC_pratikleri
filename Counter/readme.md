@@ -1,0 +1,1 @@
+Bu Çalışmada Counter örneğini Saf bloc statemanagement Kütüphanesi ile yaptım Bu pratikte Cubit kullanmadım.
