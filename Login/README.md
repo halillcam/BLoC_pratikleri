@@ -1,0 +1,1 @@
+Bu Çalışmada Bloc ile Login işlemleri yaptım BlocConsumer Kullandım, Event tarafında Model i nasıl kullanacağımı öğrendim ve pratik ettim.
